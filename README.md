@@ -1,4 +1,4 @@
-objectscript-bin-win
-====================
+os-fcgi-win
+===========
 
-ObjectScript binaries and executables files for Windows
+Windows ObjectScript binaries
