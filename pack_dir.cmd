@@ -1,1 +1,0 @@
-"c:\Program Files\upx391w\upx.exe" -9 -v *.exe *.dll
