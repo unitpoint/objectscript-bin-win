@@ -6,7 +6,7 @@ ObjectScript binaries and executables files for Windows, please see full open so
 ## Resources
 
 * [OS2D](https://github.com/unitpoint/os2d) is cross platform engine for 2d mobile games (examples included) made with ObjectScript and Oxygine
-* [OS2D binaries](https://github.com/unitpoint/os2d) is OS2D binaries and executables examples for Windows
+* [OS2D binaries](https://github.com/unitpoint/os2d-bin-win) is OS2D binaries and executables examples for Windows
 * [CastleMonster](https://github.com/unitpoint/CastleMonster) is opensource old school battle mobile game made with OS2D
 * [CastleMonster binaries](https://github.com/unitpoint/CastleMonster-bin-win) is CastleMonster binaries and executables files for Windows
 * [objectscript.org](https://github.com/unitpoint/objectscript.org) is ObjectScript language site
